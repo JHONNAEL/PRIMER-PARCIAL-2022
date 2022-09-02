@@ -1,0 +1,25 @@
+.N1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+.N2{
+    margin: 0px;
+    padding: 0px;
+    color: red;
+    text-align: center;
+    background-color: aqua;
+}
+.N3{
+    margin: 0px;
+    padding: 0px;
+    color: red;
+    text-align: center;
+    background-color: green;
+}
+.N4{
+    margin: 0px;
+    padding: 0px;
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
